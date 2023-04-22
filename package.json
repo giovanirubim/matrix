@@ -1,5 +1,5 @@
 {
-  "name": "matrix",
+  "name": "@giovanirubim/matrix",
   "version": "1.0.0",
   "description": "Implements classes of vertices and matrices with focus on linear transformations",
   "main": "index.js",
